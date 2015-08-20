@@ -55,3 +55,8 @@ docs/_build/
 
 # PyBuilder
 target/
+
+src/local_settings.py
+output/
+tags
+venv/
